@@ -13,6 +13,9 @@ User interface was modeled in Figma. It can be found through that [link](https:/
 ## Versions
 ![Version 1](https://img.shields.io/badge/Version1-974060?) - realisation of prototype of user interface (all pages that were prototyped in Figma) using xml-files in the environment of *Android Studio*.
 
+## Planned next step
+Integration of data base with user interface :nerd_face:
+
 ## Files
 All main java classes are located in path:
 ```bash
