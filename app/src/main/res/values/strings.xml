@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MicroLearn_v1</string>
+    <string name="fact">Fact</string>
+    <string name="main_articles">Main articles</string>
+    <string name="profile">Profile</string>
+    <string name="all_articles">Daily Articles</string>
+    <string name="button_add">Add</string>
+    <string name="menu_icon">Menu</string>
+    <string name="article_block">Block of article</string>
+    <string name="block_name">Name of block</string>
+    <string name="block_text">Text of block</string>
+    <string name="read_articles">Article</string>
+    <string name="menuFavouriteFacts">Favourite facts</string>
+    <string name="menuStudiedTopics">Studied topics</string>
+    <string name="menuThemes">Themes</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuArticleArchive">Article archive</string>
+    <string name="menuExit">Exit</string>
+    <string name="menuOthers">Other</string>
+    <string name="int_facts">Interesting Facts</string>
+
+
+</resources>

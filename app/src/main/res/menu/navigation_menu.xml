@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuFavouriteFacts"
+        android:icon="@drawable/ic_lamp__1_"
+        android:title="@string/menuFavouriteFacts" />
+    <item
+        android:id="@+id/menuStudiedTopics"
+        android:icon="@drawable/ic_topics"
+        android:title="@string/menuStudiedTopics" />
+    <item
+        android:id="@+id/menuThemes"
+        android:icon="@drawable/ic_themes"
+        android:title="@string/menuThemes" />
+    <item
+        android:id="@+id/menuSettings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/menuSettings" />
+    <item
+        android:id="@+id/menuArticleArchive"
+        android:icon="@drawable/ic_archive"
+        android:title="@string/menuArticleArchive" />
+
+    <item
+        android:id="@+id/menuOthers"
+        android:title="@string/menuOthers">
+        <menu>
+            <item
+                android:id="@+id/menuExit"
+                android:title="@string/menuExit" />
+        </menu>
+    </item>
+</menu>
