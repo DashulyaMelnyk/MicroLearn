@@ -12,3 +12,9 @@ User interface was modeled in Figma. It can be found through that [link](https:/
 
 ## Versions
 ![Version 1](https://img.shields.io/badge/Version1-974060?) - realisation of prototype of user interface (all pages that were prototyped in Figma) using xml-files in the environment of *Android Studio*.
+
+## Files
+All main java classes are located in path:
+```bash
+app/src/main/java/com/example/microlearn_v1/
+```
